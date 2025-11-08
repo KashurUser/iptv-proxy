@@ -1,8 +1,0 @@
-[build]
-  functions = "functions"
-  publish = "."
-
-[[redirects]]
-  from = "/jiom3uplus.m3u"
-  to = "/.netlify/functions/playlist"
-  status = 200
